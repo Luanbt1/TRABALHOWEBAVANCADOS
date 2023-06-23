@@ -1,0 +1,142 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "Projeto PetShop",
+        "description": "API PetShop",
+        "version": "1.0"
+    },
+    "host": "localhost:8080",
+    "basePath": "/",
+    "schemes": [
+        "http"
+    ],
+    "paths": {
+        "/login": {
+            "post": {
+                "tags": [
+                    "Login"
+                ],
+                "description": "Efetua login.",
+                "operationId": "POST - Logins",
+                "parameters": [],
+                "responses": {}
+            }
+        },
+        "/cliente": {
+            "post": {
+                "tags": [
+                    "Cliente"
+                ],
+                "description": "Registra clientes.",
+                "operationId": "POST - Clientes",
+                "parameters": [],
+                "responses": {}
+            },
+            "get": {
+                "tags": [
+                    "Cliente"
+                ],
+                "description": "Retorna clientes.",
+                "operationId": "GET - Clientes",
+                "parameters": [],
+                "responses": {}
+            },
+            "put": {
+                "tags": [
+                    "Cliente"
+                ],
+                "description": "Edita clientes.",
+                "operationId": "PUT - Clientes",
+                "parameters": [],
+                "responses": {}
+            }
+        },
+        "/categoria": {
+            "post": {
+                "tags": [
+                    "Categoria"
+                ],
+                "description": "Registra categorias.",
+                "operationId": "POST - Categorias",
+                "parameters": [],
+                "responses": {}
+            },
+            "get": {
+                "tags": [
+                    "Categoria"
+                ],
+                "description": "Retorna categorias.",
+                "operationId": "GET - Categorias",
+                "parameters": [],
+                "responses": {}
+            },
+            "put": {
+                "tags": [
+                    "Categoria"
+                ],
+                "description": "Edita categorias.",
+                "operationId": "PUT - Categorias",
+                "parameters": [],
+                "responses": {}
+            }
+        },
+        "/produto": {
+            "post": {
+                "tags": [
+                    "Produto"
+                ],
+                "description": "Registra produtos.",
+                "operationId": "POST - Produtos",
+                "parameters": [],
+                "responses": {}
+            },
+            "get": {
+                "tags": [
+                    "Produto"
+                ],
+                "description": "Retorna produtos.",
+                "operationId": "GET - Produtos",
+                "parameters": [],
+                "responses": {}
+            },
+            "put": {
+                "tags": [
+                    "Produto"
+                ],
+                "description": "Edita produtos.",
+                "operationId": "PUT - Produtos",
+                "parameters": [],
+                "responses": {}
+            }
+        },
+        "/pedido": {
+            "post": {
+                "tags": [
+                    "Pedido"
+                ],
+                "description": "Registra pedidos.",
+                "operationId": "POST - Pedidos",
+                "parameters": [],
+                "responses": {}
+            },
+            "get": {
+                "tags": [
+                    "Pedido"
+                ],
+                "description": "Retorna pedidos.",
+                "operationId": "GET - Pedidos",
+                "parameters": [],
+                "responses": {}
+            },
+            "put": {
+                "tags": [
+                    "Pedido"
+                ],
+                "description": "Edita pedidos.",
+                "operationId": "PUT - Pedidos",
+                "parameters": [],
+                "responses": {}
+            }
+        }
+    }
+}

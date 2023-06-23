@@ -1,0 +1,6 @@
+.foto-det {
+    width: 130px;
+    height: 130px;
+    text-align: center;
+    object-fit: contain !important;
+}

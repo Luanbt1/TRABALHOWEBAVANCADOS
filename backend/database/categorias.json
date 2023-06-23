@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "6490f414fd0607e8be093a2f",
+        "codigo": 1,
+        "nome": "Petiscos",
+        "descricao": "Petiscos"
+    },
+    {
+        "_id": "6490f427fd0607e8be093a32",
+        "codigo": 2,
+        "nome": "Rações",
+        "descricao": "Rações"
+    }
+]

@@ -1,0 +1,19 @@
+.foto-prod {
+    width: 130px;
+    height: 130px;
+    text-align: center;
+    object-fit: contain !important;
+}
+
+.foto-home {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    object-fit: contain;
+}
+.card-altura{
+    height: 330px;
+}
+.desc-altura{
+    height: 65px;
+}

@@ -1,0 +1,176 @@
+[
+    {
+        "_id": "6490f7b0fd0607e8be093abb",
+        "codigo": 6,
+        "nome": "Generico",
+        "descricao": "Generico",
+        "preco": 321,
+        "animal": "Cães",
+        "comentarios": [
+            {
+                "nome": "Edinilson",
+                "descricao": "Achei um lixo",
+                "nota": 1
+            }
+        ],
+        "nota": 6,
+        "categoria": "6490f414fd0607e8be093a2f"
+    },
+    {
+        "_id": "6490f7e6fd0607e8be093abe",
+        "codigo": 7,
+        "nome": "Generico",
+        "descricao": "Generico",
+        "preco": 96,
+        "animal": "Cães",
+        "comentarios": [
+            {
+            
+                "nome": "claudia",
+                "descricao": "mais ou menos",
+                "nota": 5
+            },
+            {
+                
+                "nome": "Maikon",
+                "descricao": "gostei",
+                "nota": 8
+            },
+            {
+            
+                "nome": "Lorenzo",
+                "descricao": "legal",
+                "nota": 10
+            }
+        ],
+        "nota": 9,
+        "categoria": "6490f414fd0607e8be093a2f"
+    },
+    {
+        "_id": "6490f81efd0607e8be093ac1",
+        "codigo": 8,
+        "nome": "Generico",
+        "descricao": "petisco",
+        "preco": 521,
+        "animal": "Gatos",
+        "comentarios": [],
+        "categoria": "6490f414fd0607e8be093a2f"
+    },
+    {
+        "_id": "6490f867fd0607e8be093ac8",
+        "codigo": 9,
+        "nome": "Petisco",
+        "descricao": "Petisco",
+        "preco": 51,
+        "animal": "Gatos",
+        "comentarios": [],
+        "categoria": "6490f414fd0607e8be093a2f"
+    },
+    {
+        "_id": "6490f603fd0607e8be093a76",
+        "codigo": 1,
+        "nome": "Ração",
+        "descricao": "Ração",
+        "preco": 21,
+        "animal": "Cães",
+        "comentarios": [
+            {
+            
+                "nome": "gerso",
+                "descricao": "Excelente produto",
+                "nota": 10
+            },
+            {
+                
+                "nome": "kirte",
+                "descricao": "Pdsoikaj",
+                "nota": 8
+            },
+            {
+                "nome": "JUJU",
+                "descricao": "legal",
+                "nota": 9
+            }
+        ],
+        "nota": 9,
+        "categoria": "6490f427fd0607e8be093a32"
+    },
+    {
+        "_id": "6490f65ffd0607e8be093a81",
+        "codigo": 2,
+        "nome": "Ração",
+        "descricao": "Ração",
+        "preco": 395.92,
+        "animal": "Cães",
+        "comentarios": [
+            {
+            
+                "nome": "Fdsadasd",
+                "descricao": "dsadas",
+                "nota": 10
+            },
+            {
+            
+                "nome": "dsadsa",
+                "descricao": "dsada bom.",
+                "nota": 8
+            }
+        ],
+        "nota": 9,
+        "categoria": "6490f427fd0607e8be093a32"
+    },
+    {
+        "_id": "6490f6a8fd0607e8be093a9c",
+        "codigo": 3,
+        "nome": "Ração",
+        "descricao": "Ração",
+        "preco": 202.9,
+        "animal": "Cães",
+        "comentarios": [
+            {
+                
+                "nome": "dsad",
+                "descricao": "Edsadsa.",
+                "nota": 5
+            },
+            {
+            
+                "nome": "Gustavo",
+                "descricao": "Produto de qualidade.",
+                "nota": 7
+            }
+        ],
+        "nota": 8.5,
+        "categoria": "6490f427fd0607e8be093a32"
+    },
+    {
+        "_id": "6490f6f8fd0607e8be093aa3",
+        "codigo": 4,
+        "nome": "Generico",
+        "descricao": "Ração ",
+        "preco": 138.9,
+        "animal": "Gatos",
+        "comentarios": [
+            {
+            
+                "nome": "Rosane",
+                "descricao": "Produto de qualidade.",
+                "nota": 9
+            },
+            {
+            
+                "nome": "Luciano",
+                "descricao": "Bom, gostei.",
+                "nota": 9
+            },
+            {
+                
+                "nome": "dsa",
+                "descricao": "Exadsaceledsadasdasdnte.",
+                "nota": 9
+            }
+        ],
+        "nota": 9,
+        "categoria": "6490f427fd0607e8be093a32"
+    }
+]
